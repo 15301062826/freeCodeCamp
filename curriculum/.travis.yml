@@ -27,3 +27,5 @@ deploy:
 branches:
   except:
     - /^v\d+\.\d+\.\d+$/
+    
+    
