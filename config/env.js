@@ -9,6 +9,7 @@ if (process.env.FREECODECAMP_NODE_ENV !== 'production') {
   require('dotenv').config({ path: envPath });
 }
 
+#it;s atest
 const {
   HOME_LOCATION: home,
   API_LOCATION: api,
