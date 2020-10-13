@@ -15,70 +15,7 @@ const legacyBackEndBase = '';
 const legacyDataVisBase = '';
 
 export const legacyProjectMap = {
-  'Legacy Front End': [
-    {Legacy Data Visualization
-      id: 'bd7158d8c242eddfaeb5bd13',
-      title: 'Build a Personal Portfolio Webpage',
-      link: `${legacyFrontEndBase}/build-a-personal-portfolio-webpage`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd13',
-      title: 'Build a Random Quote Machine',
-      link: `${legacyFrontEndBase}/build-a-random-quote-machine`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd0f',
-      title: 'Build a Pomodoro Clock',
-      link: `${legacyFrontEndBase}/build-a-pomodoro-clock`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd17',
-      title: 'Build a JavaScript Calculator',
-      link: `${legacyFrontEndBase}/build-a-javascript-calculator`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd10',
-      title: 'Show the Local Weather',
-      link: `${legacyFrontEndBase}/show-the-local-weather`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd1f',
-      title: 'Use the TwitchTV JSON API',
-      link: `${legacyFrontEndBase}/use-the-twitchtv-json-api`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd18',
-      title: 'Stylize Stories on Camper News',
-      link: `${legacyFrontEndBase}/stylize-stories-on-camper-news`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd19',
-      title: 'Build a Wikipedia Viewer',
-      link: `${legacyFrontEndBase}/build-a-wikipedia-viewer`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eedfaeb5bd1c',
-      title: 'Build a Tic Tac Toe Game',
-      link: `${legacyFrontEndBase}/build-a-tic-tac-toe-game`,
-      superBlock: 'legacy-front-end'
-    },
-    {
-      id: 'bd7158d8c442eddfaeb5bd1c',
-      title: 'Build a Simon Game',
-      link: `${legacyFrontEndBase}/build-a-simon-game`,
-      superBlock: 'legacy-front-end'
-    }
-  ],
-  
-  
+
 
 export const projectMap = {
   'Responsive Web Design': [
