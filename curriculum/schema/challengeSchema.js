@@ -1,6 +1,7 @@
 const Joi = require('joi');
 Joi.objectId = require('joi-objectid')(Joi);
 
+//test on 1013 for codeclimate
 const { challengeTypes } = require('../../client/utils/challengeTypes');
 
 function getSchemaForLang(lang) {
