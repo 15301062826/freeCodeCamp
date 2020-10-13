@@ -16,7 +16,7 @@ const legacyDataVisBase = '';
 
 export const legacyProjectMap = {
   'Legacy Front End': [
-    {
+    {Legacy Data Visualization
       id: 'bd7158d8c242eddfaeb5bd13',
       title: 'Build a Personal Portfolio Webpage',
       link: `${legacyFrontEndBase}/build-a-personal-portfolio-webpage`,
@@ -78,69 +78,7 @@ export const legacyProjectMap = {
     }
   ],
   
-  'Legacy Data Visualization': [
-    {
-      id: 'bd7157d8c242eddfaeb5bd13',
-      title: 'Build a Markdown Previewer',
-      link: `${legacyDataVisBase}/build-a-markdown-previewer`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7156d8c242eddfaeb5bd13',
-      title: 'Build a Camper Leaderboard',
-      link: `${legacyDataVisBase}/build-a-camper-leaderboard`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7155d8c242eddfaeb5bd13',
-      title: 'Build a Recipe Box',
-      link: `${legacyDataVisBase}/build-a-recipe-box`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7154d8c242eddfaeb5bd13',
-      title: 'Build the Game of Life',
-      link: `${legacyDataVisBase}/build-the-game-of-life`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7153d8c242eddfaeb5bd13',
-      title: 'Build a Roguelike Dungeon Crawler Game',
-      link: `${legacyDataVisBase}/build-a-roguelike-dungeon-crawler-game`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7168d8c242eddfaeb5bd13',
-      title: 'Visualize Data with a Bar Chart',
-      link: `${legacyDataVisBase}/visualize-data-with-a-bar-chart`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7178d8c242eddfaeb5bd13',
-      title: 'Visualize Data with a Scatterplot Graph',
-      link: `${legacyDataVisBase}/visualize-data-with-a-scatterplot-graph`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7188d8c242eddfaeb5bd13',
-      title: 'Visualize Data with a Heat Map',
-      link: `${legacyDataVisBase}/visualize-data-with-a-heat-map`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7198d8c242eddfaeb5bd13',
-      title: 'Show National Contiguity with a Force Directed Graph',
-      link: `${legacyDataVisBase}/show-national-contiguity-with-a-force-directed-graph`,
-      superBlock: 'legacy-data-visualization'
-    },
-    {
-      id: 'bd7108d8c242eddfaeb5bd13',
-      title: 'Map Data Across the Globe',
-      link: `${legacyDataVisBase}/map-data-across-the-globe`,
-      superBlock: 'legacy-data-visualization'
-    }
-  ]
-};
+  
 
 export const projectMap = {
   'Responsive Web Design': [
