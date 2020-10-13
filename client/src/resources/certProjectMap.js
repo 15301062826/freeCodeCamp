@@ -77,68 +77,7 @@ export const legacyProjectMap = {
       superBlock: 'legacy-front-end'
     }
   ],
-  'Legacy Back End': [
-    {
-      id: 'bd7158d8c443edefaeb5bdef',
-      title: 'Timestamp Microservice',
-      link: `${legacyBackEndBase}/timestamp-microservice`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443edefaeb5bdff',
-      title: 'Request Header Parser Microservice',
-      link: `${legacyBackEndBase}/request-header-parser-microservice`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443edefaeb5bd0e',
-      title: 'URL Shortener Microservice',
-      link: `${legacyBackEndBase}/url-shortener-microservice`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443edefaeb5bdee',
-      title: 'Image Search Abstraction Layer',
-      link: `${legacyBackEndBase}/image-search-abstraction-layer`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443edefaeb5bd0f',
-      title: 'File Metadata Microservice',
-      link: `${legacyBackEndBase}/file-metadata-microservice`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443eddfaeb5bdef',
-      title: 'Build a Voting App',
-      link: `${legacyBackEndBase}/build-a-voting-app`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443eddfaeb5bdff',
-      title: 'Build a Nightlife Coordination App',
-      link: `${legacyBackEndBase}/build-a-nightlife-coordination-app`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443eddfaeb5bd0e',
-      title: 'Chart the Stock Market',
-      link: `${legacyBackEndBase}/chart-the-stock-market`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443eddfaeb5bd0f',
-      title: 'Manage a Book Trading Club',
-      link: `${legacyBackEndBase}/manage-a-book-trading-club`,
-      superBlock: 'legacy-back-end'
-    },
-    {
-      id: 'bd7158d8c443eddfaeb5bdee',
-      title: 'Build a Pinterest Clone',
-      link: `${legacyBackEndBase}/build-a-pinterest-clone`,
-      superBlock: 'legacy-back-end'
-    }
-  ],
+  
   'Legacy Data Visualization': [
     {
       id: 'bd7157d8c242eddfaeb5bd13',
