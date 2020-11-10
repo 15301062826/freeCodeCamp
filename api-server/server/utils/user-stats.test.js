@@ -53,7 +53,4 @@ import { mockUserID, mockApp, mockUser } from '../boot_tests/fixtures';
           expect(error).toEqual(noUserError);
           done();
         })
-      );
-    });
-  });
 });
