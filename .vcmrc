@@ -13,3 +13,5 @@
   "helpMessage": "\nPlease use conventional commit messages.\nLearn more at: http://conventionalcommits.org/,\nfor additional information check CONTRIBUTING guidelines of this repo.\n\n  Alternatively You can use inbuilt command: \"npm run commit\" right now.",
   "autoFix": false
 }
+
+#人间清醒#
