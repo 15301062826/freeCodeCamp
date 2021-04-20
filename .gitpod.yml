@@ -10,6 +10,7 @@ ports:
   onOpen: ignore
 - port: 9229 # node debug
   onOpen: ignore
+//test
 
 tasks:
 - name: db
